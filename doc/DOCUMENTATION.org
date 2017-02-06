@@ -2287,8 +2287,8 @@ You can toggle auto-save in a buffer by calling the command =auto-save-mode=.
 ** Searching
 *** With an external tool
 Spacemacs can be interfaced with different search utilities like:
-  - ack
   - grep
+  - [[http://beyondgrep.com/][ack]]
   - [[https://github.com/ggreer/the_silver_searcher][ag]]
   - [[https://github.com/monochromegane/the_platinum_searcher][pt]]
 
